@@ -1,4 +1,4 @@
-# Classification-to-predict-Probability-of-Default
+# Model-Probability-of-Default-using Python
 
 This notebook explores a data set to model Probability of Default(PD). PD is the likelihood that a borrower will fail to pay a certain debt. 
 
